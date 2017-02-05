@@ -19,7 +19,7 @@ public class PropFiles {
 	}
 	
 	private static void showMessage23(){
-		System.out.println("Test Passed");
+		System.out.println("Test ");
 	}
 	
 	
