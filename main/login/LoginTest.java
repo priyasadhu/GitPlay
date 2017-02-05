@@ -8,7 +8,7 @@ public class LoginTest {
 	}
 
 	private static void showMessage(){
-		System.out.println("Test Passed");
+		System.out.println("Test Passed without any error");
 	}
 	
 	private static void showMessage2(){
