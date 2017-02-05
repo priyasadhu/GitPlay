@@ -4,7 +4,7 @@ public class LoginTest {
 	
 	public void test()
 	{
-		System.out.println("This is new Test for Git");
+		System.out.println("This is new Test for Git repository");
 	}
 
 	public static void main(String[] args) {
