@@ -11,6 +11,15 @@ public class LoginTest {
 		System.out.println("Test Passed");
 	}
 	
+	private static void showMessage2(){
+		System.out.println("Test Passed");
+	}
+	
+	private static void showMessage23(){
+		System.out.println("Test Passed");
+	}
+	
+	
 	public static void main(String[] args) {
 		LoginTest LT = new LoginTest();
 		LT.test();
@@ -18,4 +27,6 @@ public class LoginTest {
 		System.out.println("Test Passed Successfully");
 		
 	}
+	
+	
 }
